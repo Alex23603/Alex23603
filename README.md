@@ -2,6 +2,7 @@
 - 👀 I’m interested in software development 
 - 🌱 I’m currently learning software engineering 
 - 💞️ I’m looking to collaborate on with an intensive engineering program that will get me to be a next level type of developer 
+I don't give up.
 - 📫 How to reach me:email, "alexx24603@gmail.com" 
 
 <!---
