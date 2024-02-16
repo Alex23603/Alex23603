@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alex Mureti
-- 👀 I’m interested in software development 
+- 👀 software developer
 - 🌱 I’m currently learning software engineering 
 - 💞️ I’m looking to collaborate on with an intensive engineering program that will get me to be a next level type of developer 
 I don't give up.
